@@ -5,17 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshdeep-13" alt="arshdeep-13" /></a> </p>
 
-- 🔭 I’m currently working on [Finance Tracker App](https://finance-app-x2lu.vercel.app/)
+- 🔭 I’m currently working on [Finance Tracker App](https://ar-finance.vercel.app/)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [ar-profile.netlify.com](https://ar-profile.netlify.com)
+- 👨‍💻 All of my projects are available at [ar-profile.netlify.com](https://ar-profile.netlify.com) [UNDER DEVELOPING]
 
-- 💬 Ask me about **Welcome to my GitHub profile! I'm an enthusiastic software developer with a passion for building exceptional web applications. With expertise in JavaScript, React, and Node.js, I thrive on creating elegant and efficient solutions to complex problems. I'm actively seeking collaborative opportunities to work on innovative projects that leverage cutting-edge technologies. Let's connect and collaborate on exciting ventures that push the boundaries of what's possible in the digital world!**
+- 💬 About Me:-
+-  **Welcome to my GitHub profile! I'm an enthusiastic software developer with a passion for building exceptional web applications. With expertise in JavaScript, React, and Node.js, I thrive on creating elegant and efficient solutions to complex problems. I'm actively seeking collaborative opportunities to work on innovative projects that leverage cutting-edge technologies. Let's connect and collaborate on exciting ventures that push the boundaries of what's possible in the digital world!**
 
 - 📫 How to reach me **arshdeeprooprai@gmail.com**
 
-- 📄 Know about my experiences [add resume link](add resume link)
+- 📄 Know about my experiences [add resume link](UNDER DEVELOPING)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
