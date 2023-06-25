@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **arshdeeprooprai@gmail.com**
 
-- 📄 Know about my experiences [add resume link](UNDER DEVELOPING)
+- 📄 Know about my experiences [Arshdeep's Resume](https://ar-resume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
