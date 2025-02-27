@@ -32,9 +32,9 @@
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshdeep-13&show_icons=true&locale=en&layout=compact" alt="arshdeep-13" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshdeep-13&show_icons=true&locale=en" alt="arshdeep-13" /></p>
+  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshdeep-13&show_icons=true&locale=en" alt="arshdeep-13" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshdeep-13&" alt="arshdeep-13" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshdeep-13&" alt="arshdeep-13" /></p> -->
 </div>
 
 <h3 align="left">Support:</h3>
