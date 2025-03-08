@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshdeep-13&label=Profile%20views&color=0e75b6&style=flat" alt="arshdeep-13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshdeep-13" alt="arshdeep-13" /></a> </p>
-
 - 🔭 I’m currently 3rd B.Tech(CSE) Student at Chitkara University
 
 - 🌱  I’m intrested in **Web & App Development**
